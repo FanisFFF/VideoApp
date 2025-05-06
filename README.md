@@ -1,4 +1,4 @@
-# 🎥 YouTube Clone
+# 🎥 Video App
 
 A YouTube-like video platform built with a Laravel backend and a React (Vite) + Redux Toolkit frontend. Users can browse videos, view details, and post comments in real-time.
 
